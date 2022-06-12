@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SulaimanAminuBarkindo
 - 👀 I’m interested in Backend web development and Blockchain
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on node js, MongoDB and Solidity
+- 💞️ I’m looking to collaborate on node js, MongoDB Socket.io and Solidity
 - 📫 How to reach me... sulaimanaminu02@gmail.com
 
 <!---
